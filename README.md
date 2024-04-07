@@ -17,7 +17,8 @@ This repository is inspired by various online lists that contain great informati
 ## Early Researchers
 > This section is for you if you are in your Bachelor's or Master's programme and need some guidance. Please realize that these are general tips. Check with your university for specifics e.g., how they structure thesises.
 
-+ [Guidelines for a Bachelor Thesis of TU Chemnitz](https://www.tu-chemnitz.de/informatik/ce/files/Guidelines-Bachelor-Thesis.pdf) is a thorough guide to the Bachelor thesis process for TU Chemnitz. There are general takeaways, e.g., how to plan your thesis.
++ [Writing a Bachelor Thesis in Computer Science](https://liacs.leidenuniv.nl/~nijssensgr/bachelorklas-2014-2015/writing.pdf) is a presentation by Nijssen. It is a great starting point if you look into writing an expose and structuring your thesis.
++  [Guidelines for a Bachelor Thesis of TU Chemnitz](https://www.tu-chemnitz.de/informatik/ce/files/Guidelines-Bachelor-Thesis.pdf) is a thorough guide to the Bachelor thesis process for TU Chemnitz. There are general takeaways, e.g., how to plan your thesis.
 + [Writing Your Thesis](https://www.cs7.tf.fau.eu/teaching/student-theses/writing-your-thesis/) by FAU Nürnberg provides you with general tips for writing and submitting your thesis in computer science.
 
 ## Writing
